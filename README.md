@@ -902,6 +902,8 @@ Daily games receiving notable attention this month.
 - [Colordle](https://colordle.ryantanen.com/) — In Colordle, colordle, Guess the hidden Color. · [Daily Game Index](https://dailygameindex.com/games/colordle/)
 - [ColorGuesser](https://colorguesser.com/) — See a color name, choose its appearance on a color wheel, and learn how closely your mental label matches the measured color. · [Daily Game Index](https://dailygameindex.com/games/colorguesser/)
 - [Coloruno](https://coloruno.io/) — Memorize 5 colors, recreate them from memory, challenge friends, or play the daily colour game. · [Daily Game Index](https://dailygameindex.com/games/coloruno/)
+- [ToonTone](https://toontone.io/) — Guess the color from a daily cartoon illustration. Each round shows a different animated scene — how well do you know your colors? · [Daily Game Index](https://dailygameindex.com/games/toontone/)
+- [MecchaChameleon](https://mecchachameleon.co/) — Find the differently-colored chameleon hiding among identical ones. A daily color perception challenge. · [Daily Game Index](https://dailygameindex.com/games/mecchachameleon/)
 - [Crayondle](https://crayondle.com/) — Adjust the Red, Green, and Blue sliders to recreate the exact RGB color of today's named crayon in 1 single attempt. · [Daily Game Index](https://dailygameindex.com/games/crayondle/)
 - [Cropple](https://cropple.app/) — Guess the day's image from a tightly cropped clue. · [Daily Game Index](https://dailygameindex.com/games/cropple/)
 - [Daily Jig](https://dailyjig.com/) — Solve a 5×5 jigsaw puzzle while tracking time and moves. · [Daily Game Index](https://dailygameindex.com/games/daily-jig/)
