@@ -808,6 +808,7 @@ Daily games receiving notable attention this month.
 - [StatPad Game](https://www.statpadgame.com/) — Solve StatPad Game, the daily sports stat grid challenge. · [Daily Game Index](https://dailygameindex.com/games/statpad-game/)
 - [Tennis Sportdle](https://sportdle.net/tennis-wordle) — Solve the daily Tennis player guessing game on Sportdle — Wordle-style clues. · [Daily Game Index](https://dailygameindex.com/games/tennis-sportdle/)
 - [Wordlecup](https://wordlecup.today/en/) — Guess today's footballer in 6 tries with league, club, nation, position, age, height, number, and foot clues. · [Daily Game Index](https://dailygameindex.com/games/wordlecup/)
+- [WordleLike](https://wordlelike.com/) — A free hub of 5 daily Wordle-style games: classic Wordle, 6-letter Word Hurdle, Mini Crossword, Word Search, and Anagram Solver. No sign-up.
 - [Worpel](https://playworpel.com/) — Can you guess who today's mystery AFL player is. · [Daily Game Index](https://dailygameindex.com/games/worpel/)
 - [WrestlePlay](https://wrestleplay.com/) — Solve daily wrestling games like Wrestling Wordle, WWE Grid, and Connections. · [Daily Game Index](https://dailygameindex.com/games/wrestleplay/)
 
