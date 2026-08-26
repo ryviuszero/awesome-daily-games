@@ -568,6 +568,8 @@ Daily games receiving notable attention this month.
 - [WhereTaken](https://wheretaken.teuteuf.fr/) — Identify the country or territory shown in a travel photograph, using distance, direction, and proximity feedback to refine the answer across the daily route. · [Daily Game Index](https://dailygameindex.com/games/wheretaken/)
 - [WhereTaken USA](https://wheretakenusa.teuteuf.fr/) — Guess the US State from a photograph, plus four bonus round. · [Daily Game Index](https://dailygameindex.com/games/wheretaken-usa/)
 - [World Clue](https://worldclue.com/) — Solve a daily geography guessing game, practice with custom country quizzes, explore country profiles, and browse world data on World Clue. · [Daily Game Index](https://dailygameindex.com/games/world-clue/)
+- [World Flag Map — Daily Flags](https://worldflagmap.com/games/daily/flags/) — Identify ten national flags in the same daily quiz as every other player.
+- [World Flag Map — Daily Map](https://worldflagmap.com/games/daily/map/) — Identify ten countries from their outlines and geographic positions in a shared daily challenge.
 
 ## Trivia
 
