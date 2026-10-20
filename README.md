@@ -443,6 +443,7 @@ Daily games receiving notable attention this month.
 - [Mathler](https://www.mathler.com/) — Guess the hidden equation in no more than six attempts. · [Daily Game Index](https://dailygameindex.com/games/mathler/)
 - [Meowdoku](https://www.meowdoku.org/) — Solve and learn Meowdoku, the cat logic puzzle game. · [Daily Game Index](https://dailygameindex.com/games/meowdoku/)
 - [Moneyline](https://www.fromthethink.com/moneyline) — Solve Moneyline, a daily over-under trivia game from From The Think. · [Daily Game Index](https://dailygameindex.com/games/moneyline/)
+- [Morningwit Daily](https://morningwit.com/daily/) — Solve one shared logic grid each day, alternating between Binairo and Star Battle, with hints that open one layer at a time.
 - [Motion Path](https://motionpath.app/) — Solve MotionPath, a mobile-friendly browser memory game with path tracing, dot recall, and rhythm challenges. · [Daily Game Index](https://dailygameindex.com/games/motion-path/)
 - [Nerdcube - Carom](https://www.nerdcube.games/carom) — Navigate pieces through walls to reach the goal. · [Daily Game Index](https://dailygameindex.com/games/nerdcube-carom/)
 - [nodes-game.com](https://www.nodes-game.com/daily-puzzle-games) — Compare them all and find your next daily habit. · [Daily Game Index](https://dailygameindex.com/games/nodes-game-com/)
