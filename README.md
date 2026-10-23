@@ -776,6 +776,7 @@ Daily games receiving notable attention this month.
 
 ### More Sports Games
 
+- [2 Minute Drill](https://2mindrillgame.org/) — Take over the final two minutes of a recent real NFL game and call each play and timeout to win the drive.
 - [ABA League Sportdle](https://sportdle.net/aba-league-wordle) — Solve the daily ABA League player guessing game on Sportdle — Wordle-style clues. · [Daily Game Index](https://dailygameindex.com/games/aba-league-sportdle/)
 - [Basketball 5](https://basketball-5.com/) — Solve daily basketball games like Basketball 5, NBA Grid and NBA Wordle. · [Daily Game Index](https://dailygameindex.com/games/basketball-5/)
 - [Champdle](https://www.champdle.com/) — Connect them in 4 pairs of 4 and guess which champion uses which build. · [Daily Game Index](https://dailygameindex.com/games/champdle/)
