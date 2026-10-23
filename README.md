@@ -937,6 +937,7 @@ Daily games receiving notable attention this month.
 - [Nodes](https://www.nodes-game.com/) — Relax and connect the dots in Nodes, a daily puzzle game of triangles and art. · [Daily Game Index](https://dailygameindex.com/games/nodes/)
 - [palette.stoop.games](https://palette.stoop.games/) — In palettestoopgames, mix the sliders to match it. · [Daily Game Index](https://dailygameindex.com/games/palette-stoop-games/)
 - [Pips](https://www.nytimes.com/games/pips) — Find the right spot for every domino in this relaxing game for all skill levels. · [Daily Game Index](https://dailygameindex.com/games/pips/)
+- [Plain Game](https://plaingame.fun/) — Name things close to a target number and estimate everyday facts across seven timed rounds; closer answers fly your plane higher.
 - [Planespottle](https://planespottle.net/) — Identify the make, type, and airline from a zoomed-in photo in 5 guesses or less. · [Daily Game Index](https://dailygameindex.com/games/planespottle/)
 - [Price Games](https://price.games/) — In Price Games, guess the price of real products. · [Daily Game Index](https://dailygameindex.com/games/price-games/)
 - [Puzzleship - Tangram](https://www.puzzleship.com/fun/tangram) — Arrange 7 geometric pieces to match the silhouette. · [Daily Game Index](https://dailygameindex.com/games/puzzleship-tangram/)
