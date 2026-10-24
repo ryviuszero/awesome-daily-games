@@ -877,6 +877,7 @@ Daily games receiving notable attention this month.
 
 ### Recommended
 
+- [Plain Game](https://plaingame.fun/) — Free daily estimation / Fermi-style game: seven 30-second rounds naming things close to a target value or estimating numbers; Daily, Practice, and Discovery modes, no signup.
 - [Angle](https://angle.wtf/) — Guess the angle in 3 tries or less. · [Daily Game Index](https://dailygameindex.com/games/angle/)
 - [Amountle](https://www.amountle.dev/) — Watch objects drop and guess the count — five rounds, eight seconds each. · [Daily Game Index](https://dailygameindex.com/games/amountle/)
 - [Color Memory Game](https://www.colormemorygame.com/) — A color flashes, and you have to re-create it from memory. · [Daily Game Index](https://dailygameindex.com/games/color-memory-game/)
