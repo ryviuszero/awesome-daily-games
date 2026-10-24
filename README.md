@@ -646,6 +646,7 @@ Daily games receiving notable attention this month.
 - [Circa](https://docirca.com/) — Guess the year a historical photograph was taken. · [Daily Game Index](https://dailygameindex.com/games/circa/)
 - [Daydle](https://daydle.com/) — A game where you guess the year this event happened on this day in history. · [Daily Game Index](https://dailygameindex.com/games/daydle/)
 - [EraPin](https://erapin.com/classroom) — In EraPin, drop a pin on where it happened. · [Daily Game Index](https://dailygameindex.com/games/erapin/)
+- [guessNow](https://guessnow.fun) — Guess the year a real archival photograph was taken, revealed piece by piece. · [Daily Game Index](https://dailygameindex.com/games/guessnow/)
 - [Headlines](https://www.headlines.games/) — Guess the year associated with the displayed headlines. · [Daily Game Index](https://dailygameindex.com/games/headlines/)
 - [hisorty](https://hisorty.app/) — A daily puzzle game where you sort historical events into chronological order. · [Daily Game Index](https://dailygameindex.com/games/hisorty/)
 - [HistoriaQuest](https://historiaquest.com/) — In HistoriaQuest, find the oldest, the youngest. · [Daily Game Index](https://dailygameindex.com/games/historiaquest/)
