@@ -1010,6 +1010,7 @@ Daily games receiving notable attention this month.
 - [Pokerating](https://pokerating.com/home) — Guess an unknown Pokemon based on its in game information and its popularity. · [Daily Game Index](https://dailygameindex.com/games/pokerating/)
 - [Power Scadle](https://powerscadle.com/) — In Power Scadle, figure out who the strongest is. · [Daily Game Index](https://dailygameindex.com/games/power-scadle/)
 - [Rivalsdle](https://www.rivalsdle.net/) — Daily guess Marvel Rivals heroes with clues, abilities, quotes, origins, and more. · [Daily Game Index](https://dailygameindex.com/games/rivalsdle/)
+- [REDLINE (Daily Red)](https://daily-red.app/) — Build a Gen I–III team and try to beat Red’s fixed six in today’s shared battle challenge.
 - [Royaledle](https://royaledle.com/) — Guess a Clash Royale card from clues, emojis, pixel images, and descriptions. · [Daily Game Index](https://dailygameindex.com/games/royaledle/)
 - [Snapdle](https://snapdle.github.io/) — Guess the card from the game Marvel Snap. · [Daily Game Index](https://dailygameindex.com/games/snapdle/)
 - [Spiredle](https://spiredle.com/) — Guess the daily Slay the Spire card. · [Daily Game Index](https://dailygameindex.com/games/spiredle/)
