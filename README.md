@@ -603,6 +603,7 @@ Daily games receiving notable attention this month.
 - [LinguaBoard](https://www.machinetranslation.com/games/linguaboard) — Match languages to a 3x3 grid based on linguistics, script, and translation facts. · [Daily Game Index](https://dailygameindex.com/games/linguaboard/)
 - [LinkedIn - Pinpoint](https://www.linkedin.com/games/pinpoint) — Uncover the hidden connection in this thought-provoking word pattern game. · [Daily Game Index](https://dailygameindex.com/games/linkedin-pinpoint/)
 - [Logo Quiz](https://www.logoquiz.net/) — Start with Level 1 now and see how many brands you can identify. · [Daily Game Index](https://dailygameindex.com/games/logo-quiz/)
+- [Noillirk](https://noillirk.pro/) — Guess the most common answers across seven timed prompts; a shared Daily board resets at 00:00 UTC.
 - [On the Record](https://www.washingtonpost.com/games/news-quiz/) — Answer fill-in-the-blank and multiple-choice questions about quotes drawn from the week's news, earning points with optional hints. · [Daily Game Index](https://dailygameindex.com/games/on-the-record/)
 - [Peekpedia](https://www.peekpedia.com/) — Guess the Wikipedia article from five images, progressively revealed. · [Daily Game Index](https://dailygameindex.com/games/peekpedia/)
 - [Peerkle](https://mincalc.com/peerkle) — Order eight items along a hidden axis (sleep hours, release year, whatever today's is) low to high, in five tries. · [Daily Game Index](https://dailygameindex.com/games/peerkle/)
