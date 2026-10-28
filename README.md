@@ -1019,6 +1019,7 @@ Daily games receiving notable attention this month.
 - [Streetfighterdle](https://www.streetfighterdle.net/) — Guess the daily Street Fighter character in as few tries as possible. · [Daily Game Index](https://dailygameindex.com/games/streetfighterdle/)
 - [Wardle](https://wardlegame.com/en) — Use clues to identify tanks, aircraft, and ships, build streaks, and compare stats. · [Daily Game Index](https://dailygameindex.com/games/wardle/)
 - [Weakdle](https://dentotino.com/weakdle) — In Weakdle, and guess today's Pokemon type. · [Daily Game Index](https://dailygameindex.com/games/weakdle/)
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video / photo-to-video meme templates, 9:16, freemium).
 
 ## Other
 
