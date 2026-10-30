@@ -232,6 +232,7 @@ Daily games receiving notable attention this month.
 - [Plausible](https://plausiblegame.com/en) — A daily word game where players try to spot the real definition of an obscure word among the fakes submitted by other players the day before. · [Daily Game Index](https://dailygameindex.com/games/plausible/)
 - [Polydle](https://polydle.github.io/) — A Wordle variant where you can solve any number of words at once. · [Daily Game Index](https://dailygameindex.com/games/polydle/)
 - [Poople](https://poople.io/) — Do not add, remove, or rearrange letters. · [Daily Game Index](https://dailygameindex.com/games/poople/)
+- [PoopleGame](https://pooplegame.fun/) — Solve a daily four-letter word ladder, changing one letter per step, with progressive hints and a verified answer archive. · [Daily Game Index](https://dailygameindex.com/games/poople/)
 - [Prayerdle](https://graceupongrace.org.uk/praying-prayerdle/) — Guess the hidden prayer-themed word in 6 tries. · [Daily Game Index](https://dailygameindex.com/games/prayerdle/)
 - [Punnett Squareword](https://squarewords.io/) — Solve Punnett Squareword, a unique word puzzle game. · [Daily Game Index](https://dailygameindex.com/games/punnett-squareword/)
 - [Puzzleship - Broken Words](https://www.puzzleship.com/word-games/broken-words) — Solve daily Broken Words puzzles — rebuild scrambled words from their syllable chunks using the clues. · [Daily Game Index](https://dailygameindex.com/games/puzzleship-broken-words/)
