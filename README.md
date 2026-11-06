@@ -525,6 +525,7 @@ Daily games receiving notable attention this month.
 - [dailyguessr.app](https://dailyguessr.app/) — Five guesses to figure out where in the world it was taken. · [Daily Game Index](https://dailygameindex.com/games/dailyguessr-app/)
 - [Earthle](https://capitalle.app/earthle) — Identify the country from its silhouette. · [Daily Game Index](https://dailygameindex.com/games/earthle/)
 - [Electle](https://electle.fun/) — Identify the country and exact election year depicted by the parliamentary lower house seating diagram by selecting a country on the world map and typing the year. · [Daily Game Index](https://dailygameindex.com/games/electle/)
+- [Flag a Day](https://flagaday.com/) — Guess the daily flag in 6 tries; it starts hidden under tiles and each wrong guess shows the distance and direction to the answer.
 - [Flagdoku](https://flagdoku.com/) — Solve Flagdoku, a daily geography puzzle game. · [Daily Game Index](https://dailygameindex.com/games/flagdoku/)
 - [Flaggle](https://www.flaggle.net/) — Guess the flag presented by the puzzle. · [Daily Game Index](https://dailygameindex.com/games/flaggle/)
 - [flagguessr.app](https://flagguessr.app/) — Five guesses to identify it before the full flag shows. · [Daily Game Index](https://dailygameindex.com/games/flagguessr-app/)
