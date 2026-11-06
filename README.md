@@ -495,6 +495,7 @@ Daily games receiving notable attention this month.
 - [Synthmaze](https://synthmaze.heliante.io/) — Swap maze tiles so the rocket can reach the exit. · [Daily Game Index](https://dailygameindex.com/games/synthmaze/)
 - [Tally](https://tally-game.com/) — Connect up to 4 numbers that sum to 10 to complete the board without leftovers. · [Daily Game Index](https://dailygameindex.com/games/tally/)
 - [Targle](https://mincalc.com/targle) — Find the six-character equation that matches it, in six guesses. · [Daily Game Index](https://dailygameindex.com/games/targle/)
+- [Tilehit](https://tilehit.com/) — Combine six number tiles with + - x / to reach a three-digit target. A new Daily every day.
 - [Timdle Math](https://www.timdle.com/math) — Sort 8 math expressions from smallest to largest. · [Daily Game Index](https://dailygameindex.com/games/timdle-math/)
 - [TryHard Puzzles (Daily Star Battle)](https://tryhardpuzzles.com/) — Solve Star Battle — also called Two Not Touch — plus Queens. · [Daily Game Index](https://dailygameindex.com/games/tryhard-puzzles-daily-star-battle/)
 - [Unicodele](https://unicodele.vercel.app/) — Guess the correct Unicode in 6 tries. · [Daily Game Index](https://dailygameindex.com/games/unicodele/)
