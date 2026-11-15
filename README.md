@@ -202,6 +202,7 @@ Daily games receiving notable attention this month.
 - [Motchus](https://motchus.fr/) — Find a word from Marseilles or Provençal speech in six attempts, then see its definition. · [Daily Game Index](https://dailygameindex.com/games/motchus/)
 - [musi nimi](https://tilde.town/~dustin/wordle-toki/) — Guess the hidden toki pona word in 6 tries. · [Daily Game Index](https://dailygameindex.com/games/musi-nimi/)
 - [Neverwherdle](https://neilgaiman.com/neverwherdle/) — In Neverwherdle, guess the hidden word in 6 tries. · [Daily Game Index](https://dailygameindex.com/games/neverwherdle/)
+- [Ninefold](https://playninefold.com) — Find words in a 3x3 letter grid where every word uses the center letter, and work out the one hidden nine-letter word of the day.
 - [No Spell Check](https://www.nospellcheck.com/) — Listen to a spoken word and type the correct spelling. · [Daily Game Index](https://dailygameindex.com/games/no-spell-check/)
 - [Noun Sense](https://daily.gametje.com/) — Guess the most common noun that follows them. · [Daily Game Index](https://dailygameindex.com/games/noun-sense/)
 - [Octordle](https://www.merriam-webster.com/games/octordle/) — Put your skills to the test and solve eight word games at once. · [Daily Game Index](https://dailygameindex.com/games/octordle/)
