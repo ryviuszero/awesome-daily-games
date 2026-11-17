@@ -1026,6 +1026,7 @@ Daily games receiving notable attention this month.
 
 - [Cardle](https://cardle.boxbox.autos/) — In Cardle, guess the car in 5 tries. · [Daily Game Index](https://dailygameindex.com/games/cardle/)
 - [CarGuesser](https://carguesser.com/) — Guess the make, model, and year or play Quick mode to guess 5 cars in 60 seconds. · [Daily Game Index](https://dailygameindex.com/games/carguesser/)
+- [Cardle](https://cardledaily.com/) — One real car photo a day, zoomed in close and pulling back with a new clue after each miss; name the car in five tries.
 - [thingdle](https://thingdle.app/en/thingdle) — Read today's riddle and guess the everyday object using per-attribute feedback. · [Daily Game Index](https://dailygameindex.com/games/thingdle/)
 - [Kickdle – Daily Sneaker & Football Boot Guessing Game](https://kickdle.com/) — Guess today's sneaker or football boot in 6 tries. · [Daily Game Index](https://dailygameindex.com/games/kickdle-daily-sneaker-football-boot-guessing-game/)
 - [Dungleon](https://www.dungleon.com/) — Guess the dungeon's composition in 6 guesses. · [Daily Game Index](https://dailygameindex.com/games/dungleon/)
